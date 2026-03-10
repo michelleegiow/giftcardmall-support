@@ -1,8 +1,8 @@
-# Sphinx configuration for GiftCardMall Balance Guide
+# Sphinx configuration for GiftCardMall Support
 
-project = 'GiftCardMall Balance Guide'
-copyright = '2026, Cardholder Community'
-author = 'Cardholder Documentation Team'
+project = 'GiftCardMall Support'
+copyright = '2026, GiftCardMall'
+author = 'GiftCardMall Support Team'
 version = '1.0'
 release = '1.0.0'
 
@@ -14,7 +14,7 @@ html_theme = 'alabaster'
 
 # Theme options
 html_theme_options = {
-    'description': 'Comprehensive guide for checking GiftCardMall prepaid card balances',
+    'description': 'Balance check and cardholder support',
     'github_button': False,
     'show_powered_by': False,
 }
